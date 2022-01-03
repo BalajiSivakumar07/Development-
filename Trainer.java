@@ -14,6 +14,12 @@ public class Trainer
 	
 	}
 	
+	public trainee()
+	{
+		
+	}
+	
+	
 	public int getsalary()
 	{
 	 return this.salary;
